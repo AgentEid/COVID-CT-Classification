@@ -20,12 +20,21 @@ The original dataset is stored locally and is not included in this repository.
 
 ### Dataset Source
 
-The dataset source and download instructions will be documented here.
+The dataset used in this project is obtained from Kaggle:
 
-- **Source:** To be added
-- **License:** To be verified
+**[Preprocessed CT Scans for COVID-19](https://www.kaggle.com/datasets/azaemon/preprocessed-ct-scans-for-covid19)**
 
-Please ensure that the dataset license permits its intended use and redistribution before sharing it.
+The dataset contains preprocessed CT scan images organized into three classes:
+
+- `nCT`
+- `NiCT`
+- `pCT`
+
+The dataset is stored locally and is not included in this repository because of its size.
+
+**License:** Please refer to the original Kaggle dataset page for the applicable license and usage conditions.
+
+**Note:** The dataset is used for educational and research purposes only. This project is not intended for clinical diagnosis.
 
 ## Technologies
 
