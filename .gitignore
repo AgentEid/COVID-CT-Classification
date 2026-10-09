@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Dataset - stored locally, not uploaded to GitHub
+dataset/
