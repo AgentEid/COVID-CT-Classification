@@ -54,4 +54,5 @@ COVID-CT-Classification/
 ├── .gitignore
 ├── README.md
 └── notebooks/
-    └── 01_data_exploration.ipynb
+    ├── 01_data_exploration.ipynb
+    └── 02_model_training.ipynb
