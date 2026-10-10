@@ -120,13 +120,3 @@ The dataset and trained model are stored locally and may not be available in the
 7. Run `02_model_training.ipynb` to train and evaluate the model.
 
 The notebooks contain the implementation and analysis for each stage of the project.
-
-## Limitations
-
-- The model was evaluated on a particular dataset and may not generalize to images from other sources.
-- High test accuracy does not guarantee reliable performance in a clinical setting.
-- Further testing on independent datasets would be needed to assess generalization.
-
-## Disclaimer
-
-This project was developed for educational and research purposes only. It is not a medical diagnostic tool and must not be used to diagnose COVID-19 or make medical decisions.
